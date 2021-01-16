@@ -12,4 +12,10 @@
 * Shadowing
 * TypeCasting**
 
+<<<<<<< Updated upstream
 ** is: will be updated later  
+=======
+^ is: will be updated later 
+
+for futher suggestions and queries, reply me at elsurrtech@gmail.com
+>>>>>>> Stashed changes
